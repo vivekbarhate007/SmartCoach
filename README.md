@@ -14,14 +14,7 @@ Whether you're a new player or an aspiring coach, SmartCoach helps you think fas
 - **Progress Tracking:** Real-time scoring and feedback based on the quality of your strategic decisions.
 - **Responsive Design:** A polished, mobile-first experience that works across all devices.
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1000" width="400" alt="Landing Page" />
-  <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=1000" width="400" alt="Sports Selection" />
-</div>
-
-*Note: Replace these with actual screenshots of your application.*
 
 ## 🛠️ Tech Stack
 
